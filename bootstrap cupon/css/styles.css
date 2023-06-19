@@ -11343,3 +11343,9 @@ section#contact form#contactForm :-ms-input-placeholder {
   margin-left: 25px;
   margin-right: 25px;
 }
+
+.imgCampos {
+  border-radius: 50%;
+  width: 85%;
+  height: 100%;
+}
